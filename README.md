@@ -12,6 +12,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Covid19 Data Extractor Using Flask](https://medium.com/kandarp-kakkad/covid19-data-extractor-using-flask-96a7492ea38e?source=rss-8a1d14f9f23c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
